@@ -10,6 +10,7 @@ function App() {
       <h1>Contact</h1>
       <h1>Profile</h1>
       <h1>Setting</h1>
+      <h1>buys</h1>
     </div>
   );
 }
