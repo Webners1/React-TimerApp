@@ -3,9 +3,9 @@ node_js:
   - "stable"
 
 script:
-  -npm install
-  -npm test
-  -npm run build
+  - npm install
+  - npm test
+  - npm run build
 
 deploy:
  provider: surge
